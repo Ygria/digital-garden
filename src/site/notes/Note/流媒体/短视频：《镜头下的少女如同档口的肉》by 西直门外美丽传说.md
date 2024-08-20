@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"短视频：《镜头下的少女如同档口的肉》by 西直门外美丽传说","dg-created":"2024-08-20T11:34:33.203+08:00","tags":["短视频","社会学"],"dg-path":"镜头下的少女如同档口的肉","permalink":"//","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"短视频：《镜头下的少女如同档口的肉》by 西直门外美丽传说","dg-created":"2024-08-20T11:34:33.203+08:00","tags":["短视频","社会学"],"dg-path":"illit-magnetic-video","permalink":"/illit-magnetic-video/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,11 +1,11 @@
 :root {
     --highlight-1: #388e3b59
 }
-body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="stone"]::before,
-body.filetree-note-icon .filename[data-note-icon="stone"]::before,
-body.links-note-icon .internal-link[data-note-icon="stone"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="stone"]::before {
-  background-image: url(/img/stone.svg);
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="film"]::before,
+body.filetree-note-icon .filename[data-note-icon="film"]::before,
+body.links-note-icon .internal-link[data-note-icon="film"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="film"]::before {
+  background-image: url(/img/film.svg);
 }
 
 body {

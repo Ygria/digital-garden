@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"title":"ILLIT韩国女团出道曲Magnetic疑含性暗示","dg-created":"2024-08-20T11:34:33.203+08:00","tags":["女性主义","娱乐"],"dg-path":"Note/事件/新闻/illit-magnetic","permalink":"/note///illit-magnetic/","dgPassFrontmatter":true}
+dg-publish: true
+title: ILLIT韩国女团出道曲Magnetic疑含性暗示
+dg-created: 2024-08-20T11:34:33.203+08:00
+tags:
+  - 女性主义
+  - 娱乐
+dg-path: Note/事件/新闻/illit-magnetic
 ---
-
 
 
 韩国女团出道视频引发广泛争议。视频内容为穿着少女风格的团员唱跳KPOP风格舞曲。

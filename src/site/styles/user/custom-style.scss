@@ -38,6 +38,14 @@ body.backlinks-note-icon .backlink[data-note-icon="podcast"]::before {
   background-image: url(/img/podcast.svg);
 }
 
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="globe"]::before,
+body.filetree-note-icon .filename[data-note-icon="globe"]::before,
+body.links-note-icon .internal-link[data-note-icon="globe"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="globe"]::before {
+  background-image: url(/img/globe.svg);
+}
+
+
 body {
 
     /***

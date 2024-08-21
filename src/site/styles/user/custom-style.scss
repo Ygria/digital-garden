@@ -1,13 +1,42 @@
+:root {
+    --highlight-1: #388e3b59
+}
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="stone"]::before,
+body.filetree-note-icon .filename[data-note-icon="stone"]::before,
+body.links-note-icon .internal-link[data-note-icon="stone"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="stone"]::before {
+  background-image: url(/img/stone.svg);
+}
+
 body {
+
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-     background-color: rgb(255, 0, 89);
-     .content {
-      font-size: 14px;
-     }
-     h1 {
-      color: black;
-     }
+    background-image: url(https://teresawatts.com/img/user/assets/bg.png);
+   
+
+    .content {
+        font-size: 18px;
+        font-family: PingFang SC, Hiragino Sans GB, Microsoft Yahei, WenQuanYi Micro Hei, sans-serif;
+        color: #22272a;
+        line-height: 32px;
+
+    }
+
+    mark {
+   
+        color: #0d141e !important;
+        text-decoration-thickness: auto;
+        background-clip: content-box !important;
+        // background-image:url(https://weread-1258476243.file.myqcloud.com/web/wrwebnjlogic/image/reader_underline_bg1_m.da2e1651.png) !important;
+        background-repeat:repeat-x !important;
+        background-size:100% 100% !important;
+        background: transparent;
+    }
+
+    h1 {
+        color: black;
+    }
 }

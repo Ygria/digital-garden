@@ -1,7 +1,7 @@
 ---
 dg-publish: false
 title: 
-dg-created: 
+date: 
 tags: 
 dg-path: 
 dg-note-icon: "1"

@@ -1,6 +1,8 @@
 ## 参考：
 
-1、[](https://game.ci/docs/github/activation)[https://game.ci/docs/](https://game.ci/docs/) + [https://hub.docker.com/r/unityci/editor用于提供镜像化的Unity编译环境](https://hub.docker.com/r/unityci/editor%E7%94%A8%E4%BA%8E%E6%8F%90%E4%BE%9B%E9%95%9C%E5%83%8F%E5%8C%96%E7%9A%84Unity%E7%BC%96%E8%AF%91%E7%8E%AF%E5%A2%83)
+1、[https://game.ci/docs/](https://game.ci/docs/) 
+https://hub.docker.com/r/unityci/editor
+用于提供镜像化的Unity编译环境
 
 2、参考 [https://docs.unity3d.com/cn/2021.1/Manual/ManualActivationGuide.html](https://docs.unity3d.com/cn/2021.1/Manual/ManualActivationGuide.html) + [https://www.lotlab.org/2023/12/03/install-unity/](https://www.lotlab.org/2023/12/03/install-unity/) ，进行编译环境的证书激活。（由于Unity中国禁止绕过Unity Hub的个人版的手动和命令行激活，故需注册外网账号 + 去外网激活。）
 

@@ -3,6 +3,7 @@ dg-home: true
 dg-publish: true
 dg-path: index
 dg-note-icon: "3"
+title: Home
 ---
 # 欢迎
 

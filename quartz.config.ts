@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "🌲 Ygria's Digital Garden",
     enableSPA: true,
     enablePopovers: true,
-    analytics: { provider: 'umami', host: 'https://cloud.umami.is/script.js', websiteId: '784aa011-4f8d-44fd-ac5e-540836f0065c' },
+    analytics: { provider: 'umami', host: 'https://cloud.umami.is', websiteId: '784aa011-4f8d-44fd-ac5e-540836f0065c' },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian","Templates"],

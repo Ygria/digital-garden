@@ -28,3 +28,5 @@ npx quartz sync --no-pull
 ```shell
 npx quartz build
 ```
+
+将会将静态文件构建到/public目录下。

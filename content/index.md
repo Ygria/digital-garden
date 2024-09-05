@@ -13,7 +13,7 @@ title: Home
 
 [ Github](https://github.com/Ygria)
 
-[Ygria‘s Blog](https://ygria.site/)
+[Ygria's Blog](https://ygria.site/)
 
 ## 导引
 

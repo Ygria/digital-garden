@@ -16,7 +16,7 @@ https://hub.docker.com/r/unityci/editor
 
 2、进入Unity官网，Manual License激活，需要F12将隐藏的元素修改为展示，上传alf文件并手动激活后，下载License文件（.ulf）
 
-3、将凭据上传到Jnekins中，在构建时将文件放在容器内/root/.local/share/unity3d/Unity/中
+3、将凭据上传到Jenkins中，在构建时将文件放在容器内/root/.local/share/unity3d/Unity/中
 
 4、待编译的工程中，需加入编译入口脚本（ csharp），可直接使用： [https://gitlab.com/game-ci/unity3d-gitlab-ci-example/-/blob/main/Assets/Scripts/Editor/BuildCommand.cs](https://gitlab.com/game-ci/unity3d-gitlab-ci-example/-/blob/main/Assets/Scripts/Editor/BuildCommand.cs)
 

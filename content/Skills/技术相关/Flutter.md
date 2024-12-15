@@ -1,6 +1,7 @@
 ---
-date: ' 2024-09-16'
-tags: 
+date: " 2024-09-16"
+tags:
+  - 技术
 description: 
 title: 
 draft: false

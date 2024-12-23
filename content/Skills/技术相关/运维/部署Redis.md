@@ -1,6 +1,8 @@
 ---
 date: " 2024-08-30"
-tags: 
+tags:
+  - 运维
+  - 技术
 description: 
 title: 
 draft: false

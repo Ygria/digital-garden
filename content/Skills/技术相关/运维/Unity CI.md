@@ -1,3 +1,9 @@
+---
+tags:
+  - 技术
+  - 运维
+---
+
 ## 参考：
 
 1、[https://game.ci/docs/](https://game.ci/docs/) 

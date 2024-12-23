@@ -1,6 +1,8 @@
 ---
-date: ' 2024-12-13'
-tags: 
+date: " 2024-12-13"
+tags:
+  - 设计
+  - 设计理论
 description: 
 title: 
 draft: false

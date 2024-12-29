@@ -44,3 +44,7 @@ Callout样式不太好手打出来，这个插件专为便捷输入Callout块。
 ### 6. Automatically reveal active file
 
 左侧目录树太深不好翻动，用这个可以自动将滚轮定位到当前编辑文件相应位置并展开。非常需要。
+
+### 7.  Various Complement
+
+自动像IDE一样提供文本补全功能。

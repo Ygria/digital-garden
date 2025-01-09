@@ -7,22 +7,22 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     Component.Comments({
-      provider: 'giscus',
+      provider: "giscus",
       options: {
         // from data-repo
-        repo: 'Ygria/digital-garden',
+        repo: "Ygria/digital-garden",
         // from data-repo-id
-        repoId: 'R_kgDOMqFmqA',
+        repoId: "R_kgDOMqFmqA",
         // from data-category
-        category: 'Announcements',
+        category: "Announcements",
         // from data-category-id
-        categoryId: 'DIC_kwDOMqFmqM4CkZVs',
-      }
+        categoryId: "DIC_kwDOMqFmqM4CkZVs",
+      },
     }),
   ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
+      GitHub: "https://github.com/Ygria",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
@@ -46,6 +46,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.DesktopOnly(Component.RecentNotes()),
     Component.Backlinks(),
   ],
 }

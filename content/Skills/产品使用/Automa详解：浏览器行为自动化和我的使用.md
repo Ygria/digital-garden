@@ -7,6 +7,7 @@ tags:
 description: 
 title: 
 draft: false
+permalink: use-automa
 ---
 > [!abstract] 简述
 > 一个可以录制、自定义浏览器行为、通过可视化工具定义Workflow的浏览器插件。可以理解成浏览器的RPA机器人，也有点像直接对浏览器上的行为进行编程，可以**打开Tab、切换Tab、输入/抓取文本、点击按钮、批量下载、批量操作等等。**

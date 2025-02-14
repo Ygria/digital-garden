@@ -38,6 +38,7 @@
     "@clack/prompts": "^0.7.0",
     "@floating-ui/dom": "^1.6.10",
     "@napi-rs/simple-git": "0.1.19",
+    "@obsidianjs/obsidian": "^0.3.0",
     "@tweenjs/tween.js": "^25.0.0",
     "async-mutex": "^0.5.0",
     "chalk": "^5.3.0",
@@ -64,6 +65,8 @@
     "preact-render-to-string": "^6.5.9",
     "pretty-bytes": "^6.1.1",
     "pretty-time": "^1.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "reading-time": "^1.5.0",
     "rehype-autolink-headings": "^7.1.0",
     "rehype-citation": "^2.1.1",
@@ -101,12 +104,18 @@
     "@types/js-yaml": "^4.0.9",
     "@types/node": "^22.5.1",
     "@types/pretty-time": "^1.1.5",
+    "@types/react": "^19.0.4",
+    "@types/react-dom": "^19.0.2",
     "@types/source-map-support": "^0.5.10",
     "@types/ws": "^8.5.12",
     "@types/yargs": "^17.0.33",
     "esbuild": "^0.19.9",
     "prettier": "^3.3.3",
+    "rollup": "^4.30.1",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-typescript2": "^0.36.0",
     "tsx": "^4.18.0",
-    "typescript": "^5.5.4"
+    "typescript": "^5.7.3"
   }
 }

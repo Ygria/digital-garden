@@ -7,5 +7,7 @@ draft: false
 ---
 verbose in software：
 Verbose in software can refer to ==a setting that provides detailed information or output, or to the use of too many words in code, documentation, or communication==
+
+
 软件中的详细可以指==提供详细信息或输出的设置
 

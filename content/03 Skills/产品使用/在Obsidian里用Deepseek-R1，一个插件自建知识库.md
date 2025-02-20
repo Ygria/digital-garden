@@ -17,3 +17,5 @@ Obisidian 插件 Copilot ，可以直接基于你本地的内容仓库生成知�
 设置-第三方插件（需先关闭安全模式）。
 
 ![image.png](https://images.ygria.site/2025/02/8eb0c94e5df230cbd22d762918f4ce7f.png)
+
+1. 在火山引擎/硅基流动/……等等其他平台，配置

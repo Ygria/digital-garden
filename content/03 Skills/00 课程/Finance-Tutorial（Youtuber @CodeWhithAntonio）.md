@@ -9,7 +9,7 @@ title:
 draft: false
 ---
 
-安装 `shadui`  组件
+安装 [shadcn/ui](https://ui.shadcn.com/)  组件
 
 ```shell
 bunx --bun shadcn@latest add badge

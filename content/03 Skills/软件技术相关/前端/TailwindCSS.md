@@ -1,0 +1,95 @@
+---
+date: " 2025-03-04"
+tags:
+  - 前端
+  - 计算机
+description: 
+title: 
+draft: false
+---
+
+## 动态样式最佳实现：`cn` 函数
+
+- **在公有方法中定义 `cn` 函数**
+
+```typescript
+import { type ClassValue, clsx } from "clsx";
+import { twMerge } from "tailwind-merge";
+
+export function cn(...inputs: ClassValue[]) {
+  return twMerge(clsx(inputs));
+}
+```
+- 
+
+
+
+## 文本超长了怎么办？
+
+### 1.基础文本溢出处理（不允许换行，超出长度变成省略号）
+
+```HTML
+<span class="truncate">
+  This is a very long text that will be truncated if it overflows its container.
+</span>
+```
+
+相当于：
+
+```css
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+```
+
+### 2.  换行处理（宽度不溢出，撑开高度）
+
+要允许在单词内部换行，你需要使用 `break-words` 或 `break-all` 类：
+
+```html
+<span class="break-words"> ThisIsAVeryLoooooooooooooooooooooooooooooooooooooooooongWord 
+</span> 
+```
+
+在任何字符之间都可以断行，即使是在单词内部。
+
+```html
+<span class="break-all"> ThisIsAVeryLoooooooooooooooooooooooooooooooooooooooooongWord 
+</span> 
+```
+
+### 3. 多行换行处理
+
+- **安装插件**
+
+```bash
+npm install -D @tailwindcss/line-clamp
+```
+
+- **在 `tailwind.config.js` 中启用插件:**
+
+```javascript
+
+ // tailwind.config.js
+ module.exports = {
+   // ...
+   plugins: [
+     require('@tailwindcss/line-clamp'),
+   ],
+ }
+
+```
+
+- **使用 `line-clamp-{n}` 类**
+
+```html
+<span class="line-clamp-3 break-words"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </span>
+```
+
+这将把文本限制在 3 行，并在第三行末尾添加省略号。 `line-clamp-{n}` 中的 `n` 可以是 1 到 6 之间的数字。你也可以在配置文件中自定义行数。
+
+```javascript  // tailwind.config.js 
+module.exports = { theme: { extend: { lineClamp: { 7: '7', 8: '8', 9: '9', 10: '10', } } } } 
+```

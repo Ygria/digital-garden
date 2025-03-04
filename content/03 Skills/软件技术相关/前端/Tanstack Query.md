@@ -70,7 +70,6 @@ On a more technical note, Vue Query will likely:
 - Potentially help you save on bandwidth and increase memory performance  
     可能帮助您节省带宽并提高内存性能
 
-[
 
 ## You talked me into it, so what now?  
 你说服了我，那现在怎么办？

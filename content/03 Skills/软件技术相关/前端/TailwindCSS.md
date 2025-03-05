@@ -7,6 +7,8 @@ description:
 title: 
 draft: false
 ---
+> [!question]
+> Ring-offset 是什么？
 
 ## 动态样式最佳实现：`cn` 函数
 
@@ -20,7 +22,13 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
 ```
-- 
+
+# 布局
+
+## 固定头部
+
+使用  `sticky` 类固定头部。
+
 
 
 

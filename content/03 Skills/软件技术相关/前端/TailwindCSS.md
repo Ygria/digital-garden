@@ -50,8 +50,6 @@ export function cn(...inputs: ClassValue[]) {
 使用  `sticky` 类固定头部。
 
 
-
-
 ## 文本超长了怎么办？
 
 ### 1.基础文本溢出处理（不允许换行，超出长度变成省略号）

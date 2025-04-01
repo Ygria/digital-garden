@@ -15,5 +15,5 @@ https://relevanceai.com/
 
 https://card.3min.top/
 
-AI 生成卡片
+AI 生成卡片，支持自定义模型、提示词等。效果很好。
 

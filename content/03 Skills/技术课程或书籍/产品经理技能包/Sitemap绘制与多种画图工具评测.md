@@ -15,7 +15,6 @@ keywords:
 
 2. Excalidraw 
 
-3.  
 
 https://excalidraw.com/
 

@@ -14,7 +14,7 @@ keywords: []
 
 ==来到需要调用这个接口的地方，发现它都已经猜到我要干什么了!== 
 
-![image.png](https://images.ygria.site/2025/03/f5c699a21e4ef9d45030c5d26b24a3b5.png)
+![image.png|700x278](https://images.ygria.site/2025/03/f5c699a21e4ef9d45030c5d26b24a3b5.png)
 
 **自动补全：无脑 Tab**
 

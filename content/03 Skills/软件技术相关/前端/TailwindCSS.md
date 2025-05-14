@@ -23,6 +23,9 @@ export function cn(...inputs: ClassValue[]) {
 }
 ```
 
+## 动态踩坑：不支持拼接
+
+`JIT` 编译原理不支持动态拼接类，需使用 `variant` 实现！
 
 ##  `bg-muted`
 
@@ -49,6 +52,15 @@ export function cn(...inputs: ClassValue[]) {
 
 使用  `sticky` 类固定头部。
 
+## 文字被压缩成竖着一条了，怎么回事？
+
+>  问题描述： 使用 `flex` 布局，存在 `el-select`、标签 `span` 等，发现 `span` 被压缩成一个字、竖直的长长一条了，怎么回事？
+
+解答：`el-select` 等组件会自动扩展。给 `span` 加上 ``
+
+## 高度一致
+
+Tailwind 提供了一个 `items-stretch` 的工具类，可以让子元素在主轴为 `row` 的情况下高度自动拉伸一致（前提是没有设置固定高度）。
 
 ## 文本超长了怎么办？
 

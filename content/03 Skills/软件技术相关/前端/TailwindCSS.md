@@ -56,7 +56,10 @@ export function cn(...inputs: ClassValue[]) {
 
 >  问题描述： 使用 `flex` 布局，存在 `el-select`、标签 `span` 等，发现 `span` 被压缩成一个字、竖直的长长一条了，怎么回事？
 
-解答：`el-select` 等组件会自动扩展。给 `span` 加上 ``
+解答：`el-select` 等组件会自动扩展。给 `span` 加上 `shrink-0` 防止收缩
+
+# BFC 是什么？
+
 
 ## 高度一致
 

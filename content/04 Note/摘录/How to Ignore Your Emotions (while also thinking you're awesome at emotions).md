@@ -15,7 +15,7 @@ How to Ignore Your Emotions (while also thinking you're awesome at emotions)
 
 posted - July 31 2019
 
-![](http://www.jhazard.com/img_assets/IMG_4287.JPG)
+![|700x525](http://www.jhazard.com/img_assets/IMG_4287.JPG)
 
 Since middle school I've generally thought that I'm pretty good at dealing with my emotions, and a handful of close friends and family have made similar comments. Now I can see that though I was particularly good at never flipping out, I was decidedly _not_ good "healthy emotional processing". I'll explain later what I think "healthy emotional processing" is, right now I'm using quotes to indicate "the thing that's good to do with emotions". Here it goes…  
 从中学开始，我通常认为我非常擅长处理自己的情绪，少数亲密的朋友和家人也发表了类似的评论。现在我可以看到，虽然我特别擅长从不发泄，但我绝对不是擅长“健康的情绪处理”。我稍后会解释我认为的“健康的情绪处理”是什么，现在我用引号来表示“与情绪一起做的事情”。开始了......

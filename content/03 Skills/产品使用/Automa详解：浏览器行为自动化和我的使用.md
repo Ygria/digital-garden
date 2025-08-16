@@ -35,7 +35,7 @@ https://www.automa.site/
 
 ### 从右上角点击插件图标，开始使用
 
-![image.png](https://images.ygria.site/2025/01/e874028fa8fb5ef35f0adf9f83e3e0f3.png)
+![image.png|700x24](https://images.ygria.site/2025/01/e874028fa8fb5ef35f0adf9f83e3e0f3.png)
 
 
 值得注意的是原本的录制⏺️按钮无法再直接从插件弹窗中快速触发了，得从Dashboard中触发。

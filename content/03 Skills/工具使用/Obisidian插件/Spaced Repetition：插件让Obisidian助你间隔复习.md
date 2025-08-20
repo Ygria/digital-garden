@@ -6,6 +6,3 @@ title:
 draft: false
 ---
 类 Anki 卡片复习法
-
-
-# 

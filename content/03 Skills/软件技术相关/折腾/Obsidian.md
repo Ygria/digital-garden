@@ -1,10 +1,8 @@
 ---
 date: " 2024-09-03"
 tags:
-  - obisidian
-  - obisidian插件
-description: 
-title: 
+description:
+title:
 draft: false
 ---
 插件和使用

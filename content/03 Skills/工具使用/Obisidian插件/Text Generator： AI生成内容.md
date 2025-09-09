@@ -6,7 +6,7 @@ title:
 draft: false
 keywords:
   - Text Generator
-  - Obisidian插件
+  - obsidian插件
 ---
 > [!abstract]
 > 想要为我的文章快速生成简介、关键词，好用来 SEO 或填写文章简介。**Obsidian Text Generator 插件**（推荐 ✅，支持 OpenAI 兼容 API）。

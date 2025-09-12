@@ -25,7 +25,7 @@ draft: false
 
 先使用灰度设计。==使用尺寸、对比度、间距来完成主要设计，再用颜色来加强==。
 
-![image.png](https://images.ygria.site/2024/12/14c5733c8546ccb292345d116f22d0b5.png)
+![image.png|685x885](https://images.ygria.site/2024/12/14c5733c8546ccb292345d116f22d0b5.png)
 
 （我的实践：使用浏览器插件尝试，更容易排查间距、对齐、尺寸、对比度等的等问题）
 

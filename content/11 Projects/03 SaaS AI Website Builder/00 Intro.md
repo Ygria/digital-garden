@@ -26,6 +26,7 @@ Bolt 、`v0` 等生成 AI Agent 实时预览页面的网站是怎么做的呢？
 
 ## 核心技术与特性
 
+
 - **超快启动时间**：沙箱启动速度极快，通常在 150–200 毫秒内完成，无需冷启动等待 [ADaSci](https://adasci.org/mastering-ai-code-execution-in-secure-sandboxes-with-e2b/?utm_source=chatgpt.com)[AI Tools Explorer](https://aitoolsexplorer.com/ai-tools/e2b-secure-ai-code-execution-runtime/?utm_source=chatgpt.com)[aijumble.com](https://aijumble.com/software-listings/e2b/?utm_source=chatgpt.com)。
     
 - **基于 Firecracker microVM 的隔离安全机制**：使用轻量级微虚拟机确保代码在安全沙箱中运行 [AI Tools Explorer](https://aitoolsexplorer.com/ai-tools/e2b-secure-ai-code-execution-runtime/?utm_source=chatgpt.com)[E2B](https://e2b.dev/blog/how-manus-uses-e2b-to-provide-agents-with-virtual-computers?utm_source=chatgpt.com)。

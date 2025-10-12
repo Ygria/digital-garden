@@ -231,6 +231,6 @@ LLM 接收到数据后，会对文本内容进行分割 （`break it up into sma
 ### 流式返回  Streaming
 
 Stream Events
-根据不同的方法定义，返回不同的事件类型
+根据不同的方法定义，返回不同的事件类型/ [[02 Stream - 流式返回]]
 
 ![image.png](https://images.ygria.site/2025/10/20907bd289d8afbf54060fdc931290d7.png)

@@ -20,3 +20,5 @@ SELECT d.department_name, AVG(e.salary) AS avg_salary FROM employees e JOIN depa
 
 **如果联表查出的数据量过大，会导致后续所有操作的计算量都指数增长。**
 
+## Step 2： 
+

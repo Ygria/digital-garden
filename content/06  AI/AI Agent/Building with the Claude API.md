@@ -30,7 +30,6 @@ keywords: []
 6. `MCP Model Context Protocol`：模型上下文协议：将 Claude 连接到各种数据源
 7. 了解常见的工作流程和代理体系结构
 
-
 ### 课程总览
 
 

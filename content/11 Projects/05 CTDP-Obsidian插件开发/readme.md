@@ -6,6 +6,9 @@ title:
 draft: false
 keywords: []
 ---
+
+打包出的项目地址：  [[https://github.com/Ygria/ctdp-pomodoro]]
+
 # Obsidian CTDP & RSIP 番茄钟
 
 ## 安装说明

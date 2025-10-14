@@ -93,7 +93,3 @@ npm run db:generate
 
 将变更应用到线上数据库中
 
-```
-ep-solitary-dust-a1anc9bc-pooler.ap-southeast-1.aws.neon.tech
-
-```

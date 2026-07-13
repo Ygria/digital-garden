@@ -18,6 +18,15 @@ docker run --restart=always -d \\
 --character-set-server=utf8mb4
 ```
 
+
+
+
+```bash
+docker run --restart=always -d -v /home/beavers2/mysql/conf/my.cnf:/etc/mysql/my.cnf -v /home/beavers2/mysql/logs:/logs -v /home/beavers2/mysql/data:/var/lib/mysql -p 3306:3306 --name mysql8 -e MYSQL_ROOT_PASSWORD='123123' --privileged=true --restart unless-stopped mysql:8.0 --character-set-server=utf8mb4
+```
+
+
+
 **docker 部署mysql8.0 [https://blog.51cto.com/u_15384850/5434502**](https://blog.51cto.com/u_15384850/5434502**)
 
 ```bash

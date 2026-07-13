@@ -182,30 +182,6 @@ SiteMap 编辑技巧：
 
 
 
-官方提示词参考
-> [!example]
-> Company description: Movemint is a cutting-edgetraining facility based in Sydney. Australia, designed for high-performance athletes and thoseaspiring to reach peak physicalcondition. Offering advancedsports science assessments. Personalized training programs. And recovery services such ascryotherapy and sportsmassage, Movemint caters tothe specific needs ofcompetitive individuals. Goals:- Mention the founding story- Include a timeline of the historyof the company which was foundedin 2015
--Include a Press section linking toarticles that talk about the gymOther relevant notes:  其他相关说明：  
-- Include a coaches page  
-- 包括教练页面  
-- Include a blog- Include a page for each service offering (reference the company description)  
-- 包含博客 - 为每项服务提供一个页面（参考公司描述）  
-- Keep the pages to 4-8 sections long  
-- 将页面长度控制在 4-8 个部分
-
-Company description:  公司描述：  
-Purely Organic Markets is a chain of eco-friendly grocery stores based in Portland, Oregon, offering a wide range of organic foods, natural personal care products, and sustainable household goods. We are committed to promoting healthy living and environmental sustainability.  
-Purely Organic Markets 是一家总部位于俄勒冈州波特兰的环保杂货店连锁店，提供各种有机食品、天然个人护理产品和可持续家居用品。我们致力于促进健康生活和环境可持续性。  
-  
-Goals:  目标：  
-- Primary goal is to increase foot traffic in our stores.  
-- 主要目标是增加我们商店的客流量。  
-- Secondary goals include promoting our loyalty program and highlighting our community involvement initiatives.  
-- 次要目标包括推广我们的忠诚度计划和强调我们的社区参与举措。
-
-
-
-
 
 
 

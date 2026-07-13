@@ -6,14 +6,6 @@ title:
 draft: false
 keywords: []
 ---
-
-
-
-
-
-
-
-
 1. Cursor 使用
 
 ①Generate 代码功能。Ctrl + K 唤起输入框，描述需要生成的内容，会智能地模仿你同文件内接口来生成代码
